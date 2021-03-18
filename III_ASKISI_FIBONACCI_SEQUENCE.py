@@ -17,7 +17,7 @@ while num<50:
    
 list1=[1,0]
 
-##
+###############
 
 while len(list1)!=10:
    list1.insert(0,(list1[0]+list1[1]))
